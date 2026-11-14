@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794596991|3284461';
+const CACHE_VERSION = '1794614587|110790583';
 /** @type {string} */
 const CACHE_PREFIX = 'Ambush-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
